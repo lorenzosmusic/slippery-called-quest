@@ -216,7 +216,7 @@
     </StatefulDiffCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1657167568" tv-usec="637601" name="replace tempo mark">
-    <MementoCommand obj-id="89" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="53" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="120" note-type="4" clamped="0" end-beats-per-minute="120" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
@@ -240,7 +240,7 @@
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1657167628" tv-usec="651169" name="replace tempo mark">
-    <MementoCommand obj-id="89" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="53" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="97" note-type="4" clamped="0" end-beats-per-minute="97" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
@@ -463,5 +463,14 @@
         </Selection>
       </SelectionMemento>
     </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1659069131" tv-usec="501260" name="capture">
+    <StatefulDiffCommand obj-id="912" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="4415"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
   </UndoTransaction>
 </UndoHistory>

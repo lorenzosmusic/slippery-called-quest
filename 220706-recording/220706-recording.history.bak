@@ -216,7 +216,7 @@
     </StatefulDiffCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1657167568" tv-usec="637601" name="replace tempo mark">
-    <MementoCommand obj-id="89" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="53" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="120" note-type="4" clamped="0" end-beats-per-minute="120" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
@@ -240,7 +240,7 @@
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1657167628" tv-usec="651169" name="replace tempo mark">
-    <MementoCommand obj-id="89" type-name="ARDOUR::TempoMap">
+    <MementoCommand obj-id="53" type-name="ARDOUR::TempoMap">
       <TempoMap>
         <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="97" note-type="4" clamped="0" end-beats-per-minute="97" active="1" locked-to-meter="1"/>
         <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
@@ -374,5 +374,103 @@
         </Selection>
       </SelectionMemento>
     </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1657171320" tv-usec="537390" name="add marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="1432" name="session" start="0" end="19447959" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="1432" name="session" start="0" end="19447959" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2369" name="mark1" start="19102500" end="19102500" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="7800" left-frame="9487385" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2110"/>
+            <Region id="2135"/>
+            <Region id="2161"/>
+            <Region id="2186"/>
+            <Region id="2212"/>
+            <Region id="2237"/>
+            <Region id="2086"/>
+          </Regions>
+          <Marker id="2362" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="7800" left-frame="9487385" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2110"/>
+            <Region id="2135"/>
+            <Region id="2161"/>
+            <Region id="2186"/>
+            <Region id="2212"/>
+            <Region id="2237"/>
+            <Region id="2086"/>
+          </Regions>
+          <Marker id="2369" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1657171338" tv-usec="27098" name="move marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="1432" name="session" start="0" end="19447959" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2369" name="mark1" start="19102500" end="19102500" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2373" name="click trackversion-range" start="10260000" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="1432" name="session" start="0" end="19447959" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2369" name="mark1" start="19102500" end="19102500" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="975" left-frame="9927110" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2110"/>
+            <Region id="2135"/>
+            <Region id="2161"/>
+            <Region id="2186"/>
+            <Region id="2212"/>
+            <Region id="2237"/>
+            <Region id="2086"/>
+          </Regions>
+          <Marker id="2373" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="975" left-frame="9927110" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2110"/>
+            <Region id="2135"/>
+            <Region id="2161"/>
+            <Region id="2186"/>
+            <Region id="2212"/>
+            <Region id="2237"/>
+            <Region id="2086"/>
+          </Regions>
+          <Marker id="2373" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1659069131" tv-usec="501260" name="capture">
+    <StatefulDiffCommand obj-id="912" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="4415"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
   </UndoTransaction>
 </UndoHistory>
