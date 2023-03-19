@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="220706-recording" sample-rate="44100" end-is-free="1" session-range-is-free="1" id-counter="19665" name-counter="1" event-counter="356" vca-counter="1">
+<Session version="6000" name="220706-recording" sample-rate="44100" end-is-free="1" session-range-is-free="1" id-counter="27667" name-counter="1" event-counter="1136" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4.1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -194,6 +194,7 @@
     <Region name="OH 2-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9802240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="1930" type="audio" first-edit="nothing" source-0="1610" master-source-0="1610" channels="1"/>
     <Region name="Bass-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9802240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="1954" type="audio" first-edit="nothing" source-0="1634" master-source-0="1634" channels="1"/>
     <Region name="Keys Tom-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9093376" position="10354584" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2054" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1"/>
+    <Region name="Keys Tom-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9093376" position="10354584" beat="383.50311111111108" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2062" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1"/>
     <Region name="Bass Drum-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9093376" position="10354584" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2078" type="audio" first-edit="nothing" source-0="1803" master-source-0="1803" channels="1"/>
     <Region name="Snare-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9093376" position="10354584" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2102" type="audio" first-edit="nothing" source-0="1828" master-source-0="1828" channels="1"/>
     <Region name="Hi Hat-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9093376" position="10354584" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2127" type="audio" first-edit="nothing" source-0="1854" master-source-0="1854" channels="1"/>
@@ -284,17 +285,77 @@
     <Region name="Empty 2-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2516976" position="16481312" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19287" type="audio" first-edit="nothing" source-0="18721" master-source-0="18721" channels="1"/>
     <Region name="Eric Amp-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8143856" position="10381500" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19352" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1"/>
     <Region name="Eric Keys-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8143856" position="10381500" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19382" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8143856" position="10381500" beat="384.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19390" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
     <Region name="Empty 2-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8143856" position="10381500" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19411" type="audio" first-edit="nothing" source-0="19328" master-source-0="19328" channels="1"/>
     <Region name="Eric Amp-11" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4171248" position="66438601" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19464" type="audio" first-edit="nothing" source-0="19380" master-source-0="19380" channels="1"/>
     <Region name="Eric Keys-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4171248" position="66438601" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19494" type="audio" first-edit="nothing" source-0="19409" master-source-0="19409" channels="1"/>
+    <Region name="Eric Keys-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4171248" position="66438601" beat="2460.688925925926" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19502" type="audio" first-edit="nothing" source-0="19409" master-source-0="19409" channels="1"/>
     <Region name="Empty 2-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4171248" position="66438601" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19523" type="audio" first-edit="nothing" source-0="19438" master-source-0="19438" channels="1"/>
     <Region name="Eric Amp-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4177392" position="70966214" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19576" type="audio" first-edit="nothing" source-0="19492" master-source-0="19492" channels="1"/>
     <Region name="Eric Keys-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4177392" position="70966214" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19606" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4177392" position="70966214" beat="2628.3782962962964" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19614" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
     <Region name="Empty 2-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4177392" position="70966214" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19635" type="audio" first-edit="nothing" source-0="19550" master-source-0="19550" channels="1"/>
+    <Region name="Eric Keys-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8143856" position="10381500" beat="384.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="23728" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="205786" length="432001" position="0" beat="0" sync-position="205786" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="23826" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="205786" length="432001" position="43848000" beat="1624.0000000000002" sync-position="205786" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="23839" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="219514" length="418273" position="11340000" beat="420" sync-position="205786" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="23863" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="314637" length="323150" position="11446569" beat="423.947" sync-position="314637" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="23909" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="424068" length="213719" position="11545188" beat="427.59955555555553" sync-position="424068" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="23961" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="526880" length="110907" position="11658170" beat="431.78407407407411" sync-position="526880" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="23998" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-2.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1822500" length="432001" position="0" beat="0" sync-position="1822500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="24132" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1822500" length="432001" position="12636000" beat="468.00000000000006" sync-position="1822500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="24145" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1822500" length="432001" position="12204001" beat="452.00003703703709" sync-position="1822500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24163" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1832670" length="13781" position="0" beat="0" sync-position="1832670" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24295" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Amp-10.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1822501" length="810000" position="0" beat="0" sync-position="1822501" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="24425" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1"/>
+    <Region name="Eric Amp-10.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1822501" length="810000" position="13014000" beat="482" sync-position="1822501" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="24438" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1"/>
+    <Region name="Eric Amp-10.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1876500" length="753033" position="12258000" beat="454" sync-position="1819744" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="24456" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1"/>
+    <Region name="Eric Keys-4.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="274783" length="149285" position="13995959" beat="518.3688518518519" sync-position="274783" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="20" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24788" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="516710" length="97000" position="14237244" beat="527.30533333333335" sync-position="516710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="21" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24798" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="424068" length="102812" position="14134432" beat="523.49748148148149" sync-position="424068" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24838" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="613710" length="31240" position="14330004" beat="530.74088888888889" sync-position="613710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24848" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="219514" length="66715" position="13929244" beat="515.89792592592596" sync-position="219514" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="29" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24878" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Keys Tom-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1849417" length="7243959" position="12204001" beat="452" sync-position="1849417" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="25092" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1"/>
+    <Region name="Eric Keys-2.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5494500" length="324001" position="0" beat="0" sync-position="5494500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="25148" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5494500" length="324001" position="16200000" beat="600" sync-position="5494500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="25161" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5494500" length="324001" position="14148000" beat="524" sync-position="5494500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="25179" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5494500" length="324001" position="14472001" beat="536.00003703703703" sync-position="5494500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="25267" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5494500" length="324001" position="14580000" beat="540" sync-position="5494500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="28" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="25284" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5494500" length="108000" position="14148000" beat="524" sync-position="5494500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="25443" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5602500" length="216001" position="14256000" beat="528" sync-position="5602500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="25452" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5613626" length="204875" position="14269140" beat="528.48666666666668" sync-position="5613626" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="25498" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2185915" length="68586" position="14467019" beat="535.8155185185185" sync-position="2185915" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="25656" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5613626" length="67860" position="14701140" beat="544.48666666666668" sync-position="5613626" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="29" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="26006" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5494500" length="108000" position="14580000" beat="540" sync-position="5494500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="26016" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.33" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2185915" length="95491" position="14899019" beat="551.8155185185185" sync-position="2185915" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="26026" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.34" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5681486" length="137015" position="14762004" beat="546.74088888888889" sync-position="5681486" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="32" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="26036" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1822500" length="363415" position="14580000" beat="540" sync-position="1822500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="29" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="26138" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1832670" length="13781" position="14619479" beat="541.46218518518515" sync-position="1832670" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="26148" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1832670" length="13781" position="14728235" beat="545.49018518518517" sync-position="1832670" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="32" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="26158" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.38" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1832670" length="13781" position="14838687" beat="549.5809999999999" sync-position="1832670" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="33" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="26168" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Keys-2.40" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1822500" length="297000" position="14580000" beat="540" sync-position="1822500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="29" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="26234" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1"/>
+    <Region name="Eric Amp-10.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1819744" length="809789" position="14146830" beat="523.95666666666659" sync-position="1819744" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="26388" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1"/>
+    <Region name="Keys Tom-4.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="985416" length="429245" position="0" beat="0" sync-position="985416" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="26449" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1"/>
+    <Region name="Keys Tom-4.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="985416" length="429245" position="10904776" beat="403.88059259259256" sync-position="985416" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="26462" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1"/>
+    <Region name="Keys Tom-4.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="985416" length="219224" position="10904776" beat="403.88059259259256" sync-position="985416" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="26498" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1"/>
+    <Region name="Keys Tom-4.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1199648" length="215013" position="11124000" beat="412" sync-position="1204640" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="26507" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1"/>
+    <Region name="Keys Tom-4.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="985416" length="158984" position="10904776" beat="403.88059259259256" sync-position="985416" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="26661" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1"/>
+    <Region name="Keys Tom-4.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1146896" length="51504" position="11070000" beat="410" sync-position="1150640" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="26670" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1"/>
+    <Region name="Empty 2-3.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2249399" length="216001" position="0" beat="0" sync-position="2249399" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="6.5310821533203125" id="26954" type="audio" first-edit="nothing" source-0="19438" master-source-0="19438" channels="1"/>
+    <Region name="Empty 2-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2249399" length="216001" position="64692000" beat="2396" sync-position="2249399" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="6.5310821533203125" id="26967" type="audio" first-edit="nothing" source-0="19438" master-source-0="19438" channels="1"/>
+    <Region name="Empty 2-3.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2249399" length="216001" position="15012000" beat="556" sync-position="2249399" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="34" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="6.5310821533203125" id="26991" type="audio" first-edit="nothing" source-0="19438" master-source-0="19438" channels="1"/>
+    <Region name="Empty 2-3.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2033399" length="432001" position="15012000" beat="556" sync-position="2249399" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="6.5310821533203125" id="27015" type="audio" first-edit="nothing" source-0="19438" master-source-0="19438" channels="1"/>
+    <Region name="Eric Amp-10.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1984500" length="645033" position="12366000" beat="457.99999999999994" sync-position="1930500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27136" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1"/>
+    <Region name="Eric Amp-10.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2106124" length="523409" position="12487624" beat="462.50459259259253" sync-position="2050348" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27185" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1"/>
+    <Region name="Eric Amp-10.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2092500" length="135000" position="14202000" beat="526" sync-position="2092500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27342" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1"/>
+    <Region name="Eric Amp-10.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2308500" length="108000" position="14202000" beat="526" sync-position="2308500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27415" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1"/>
+    <Region name="Eric Amp-10.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2416500" length="213033" position="14310000" beat="530" sync-position="2416500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27424" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1"/>
+    <Region name="Eric Keys-4.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="219514" length="66715" position="15026285" beat="556.52907407407417" sync-position="219514" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="34" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="27469" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="274783" length="149285" position="15093000" beat="559" sync-position="274783" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="35" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="27479" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="516710" length="97000" position="15334285" beat="567.93648148148145" sync-position="516710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="36" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="27489" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.32" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="424068" length="102812" position="15231473" beat="564.12862962962959" sync-position="424068" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="37" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="27499" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
+    <Region name="Eric Keys-4.33" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="613710" length="31240" position="15427045" beat="571.37203703703699" sync-position="613710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="38" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="27509" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="918" control="0" order="11"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="1432" name="session" start="0" end="75143605" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
     <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
@@ -314,11 +375,11 @@
         <Port type="audio" name="Master/audio_in 1">
           <Connection other="Bass Drum/audio_out 1"/>
           <Connection other="Bass/audio_out 1"/>
-          <Connection other="Empty 1/audio_out 1"/>
-          <Connection other="Empty 2/audio_out 1"/>
+          <Connection other="Cliff Guitar/audio_out 1"/>
+          <Connection other="Cliff gitar edit/audio_out 1"/>
           <Connection other="Eric Amp/audio_out 1"/>
           <Connection other="Eric Keys/audio_out 1"/>
-          <Connection other="Eric Mic/audio_out 1"/>
+          <Connection other="Eric guitar edit/audio_out 1"/>
           <Connection other="Floor tom/audio_out 1"/>
           <Connection other="Harm mic/audio_out 1"/>
           <Connection other="Hi Hat/audio_out 1"/>
@@ -326,17 +387,18 @@
           <Connection other="OH 1/audio_out 1"/>
           <Connection other="OH 2/audio_out 1"/>
           <Connection other="Rack 1/audio_out 1"/>
-          <Connection other="Reg mic/audio_out 1"/>
+          <Connection other="Rob Guitar 2/audio_out 1"/>
+          <Connection other="Rob guitar 1/audio_out 1"/>
           <Connection other="Snare/audio_out 1"/>
         </Port>
         <Port type="audio" name="Master/audio_in 2">
           <Connection other="Bass Drum/audio_out 2"/>
           <Connection other="Bass/audio_out 2"/>
-          <Connection other="Empty 1/audio_out 2"/>
-          <Connection other="Empty 2/audio_out 2"/>
+          <Connection other="Cliff Guitar/audio_out 2"/>
+          <Connection other="Cliff gitar edit/audio_out 2"/>
           <Connection other="Eric Amp/audio_out 2"/>
           <Connection other="Eric Keys/audio_out 2"/>
-          <Connection other="Eric Mic/audio_out 2"/>
+          <Connection other="Eric guitar edit/audio_out 2"/>
           <Connection other="Floor tom/audio_out 2"/>
           <Connection other="Harm mic/audio_out 2"/>
           <Connection other="Hi Hat/audio_out 2"/>
@@ -344,7 +406,8 @@
           <Connection other="OH 1/audio_out 2"/>
           <Connection other="OH 2/audio_out 2"/>
           <Connection other="Rack 1/audio_out 2"/>
-          <Connection other="Reg mic/audio_out 2"/>
+          <Connection other="Rob Guitar 2/audio_out 2"/>
+          <Connection other="Rob guitar 1/audio_out 2"/>
           <Connection other="Snare/audio_out 2"/>
         </Port>
       </IO>
@@ -1293,21 +1356,21 @@
       <Controllable name="rec-safe" id="764" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="762" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="774" name="Reg mic" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="816" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="774" name="Eric guitar edit" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="816" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="11" flags="AudioTrack,OrderSet" color="3850269439"/>
       <Controllable name="solo" id="782" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="788" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="790" flags="Toggle" value="0" solo-safe="0"/>
-      <IO name="Reg mic" id="802" direction="Input" default-type="audio">
-        <Port type="audio" name="Reg mic/audio_in 1">
+      <IO name="Eric guitar edit" id="802" direction="Input" default-type="audio">
+        <Port type="audio" name="Eric guitar edit/audio_in 1">
           <Connection other="system:capture_13"/>
         </Port>
       </IO>
-      <IO name="Reg mic" id="803" direction="Output" default-type="audio">
-        <Port type="audio" name="Reg mic/audio_out 1">
+      <IO name="Eric guitar edit" id="803" direction="Output" default-type="audio">
+        <Port type="audio" name="Eric guitar edit/audio_out 1">
           <Connection other="Master/audio_in 1"/>
         </Port>
-        <Port type="audio" name="Reg mic/audio_out 2">
+        <Port type="audio" name="Eric guitar edit/audio_out 2">
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
@@ -1338,8 +1401,8 @@
           <AutomationList automation-id="pan-lfe" id="800" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="815" name="Reg mic" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
-      <Processor id="815" name="Reg mic" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="815" name="recorder:Eric guitar edit" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="815" name="player:Eric guitar edit" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="10818" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
       <Processor id="805" name="Amp" active="1" user-latency="0" use-user-latency="0" type="trim">
         <Automation>
@@ -1351,10 +1414,10 @@
         <Automation>
           <AutomationList automation-id="gain" id="777" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="778" flags="GainLike" value="1"/>
+        <Controllable name="gaincontrol" id="778" flags="GainLike" value="0.7281380295753479"/>
       </Processor>
       <Processor id="806" name="meter-Keys Tom 3" active="1" user-latency="0" use-user-latency="0" type="meter"/>
-      <Processor id="807" name="Reg mic" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Reg mic" type="main-outs" role="Main">
+      <Processor id="807" name="Eric guitar edit" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Eric guitar edit" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
@@ -1362,21 +1425,21 @@
       <Controllable name="rec-safe" id="812" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="810" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="822" name="Eric Mic" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="864" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="822" name="Cliff gitar edit" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="864" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="12" flags="AudioTrack,OrderSet" color="3849511423"/>
       <Controllable name="solo" id="830" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="836" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="838" flags="Toggle" value="0" solo-safe="0"/>
-      <IO name="Eric Mic" id="850" direction="Input" default-type="audio">
-        <Port type="audio" name="Eric Mic/audio_in 1">
+      <IO name="Cliff gitar edit" id="850" direction="Input" default-type="audio">
+        <Port type="audio" name="Cliff gitar edit/audio_in 1">
           <Connection other="system:capture_14"/>
         </Port>
       </IO>
-      <IO name="Eric Mic" id="851" direction="Output" default-type="audio">
-        <Port type="audio" name="Eric Mic/audio_out 1">
+      <IO name="Cliff gitar edit" id="851" direction="Output" default-type="audio">
+        <Port type="audio" name="Cliff gitar edit/audio_out 1">
           <Connection other="Master/audio_in 1"/>
         </Port>
-        <Port type="audio" name="Eric Mic/audio_out 2">
+        <Port type="audio" name="Cliff gitar edit/audio_out 2">
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
@@ -1407,8 +1470,8 @@
           <AutomationList automation-id="pan-lfe" id="848" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="863" name="Eric Mic" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
-      <Processor id="863" name="Eric Mic" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="863" name="recorder:Cliff gitar edit" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="863" name="player:Cliff gitar edit" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="10864" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
       <Processor id="853" name="Amp" active="1" user-latency="0" use-user-latency="0" type="trim">
         <Automation>
@@ -1420,10 +1483,10 @@
         <Automation>
           <AutomationList automation-id="gain" id="825" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="826" flags="GainLike" value="1"/>
+        <Controllable name="gaincontrol" id="826" flags="GainLike" value="0.46512258052825928"/>
       </Processor>
       <Processor id="854" name="meter-Keys Tom 4" active="1" user-latency="0" use-user-latency="0" type="meter"/>
-      <Processor id="855" name="Eric Mic" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Eric Mic" type="main-outs" role="Main">
+      <Processor id="855" name="Cliff gitar edit" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Cliff gitar edit" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
@@ -1449,8 +1512,8 @@
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="880" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="880" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="882" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="877" interpolation-style="Discrete" state="Off"/>
@@ -1501,7 +1564,7 @@
       <Controllable name="rec-enable" id="906" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="918" name="Eric Keys" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="19322" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="14" flags="AudioTrack,OrderSet" color="3853611775"/>
+      <PresentationInfo order="17" flags="AudioTrack,OrderSet" color="3853611775"/>
       <Controllable name="solo" id="926" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="932" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="934" flags="Toggle" value="0" solo-safe="0"/>
@@ -1569,21 +1632,21 @@
       <Controllable name="rec-safe" id="956" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="954" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="1194" name="Empty 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="11667" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="15" flags="AudioTrack,OrderSet" color="3756356351"/>
+    <Route version="6000" id="1194" name="Rob guitar 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="11667" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+      <PresentationInfo order="16" flags="AudioTrack,OrderSet" color="3756356351"/>
       <Controllable name="solo" id="1202" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1208" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1210" flags="Toggle" value="0" solo-safe="0"/>
-      <IO name="Empty 1" id="1222" direction="Input" default-type="audio">
-        <Port type="audio" name="Empty 1/audio_in 1">
+      <IO name="Rob guitar 1" id="1222" direction="Input" default-type="audio">
+        <Port type="audio" name="Rob guitar 1/audio_in 1">
           <Connection other="system:capture_4"/>
         </Port>
       </IO>
-      <IO name="Empty 1" id="1223" direction="Output" default-type="audio">
-        <Port type="audio" name="Empty 1/audio_out 1">
+      <IO name="Rob guitar 1" id="1223" direction="Output" default-type="audio">
+        <Port type="audio" name="Rob guitar 1/audio_out 1">
           <Connection other="Master/audio_in 1"/>
         </Port>
-        <Port type="audio" name="Empty 1/audio_out 2">
+        <Port type="audio" name="Rob guitar 1/audio_out 2">
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
@@ -1614,8 +1677,8 @@
           <AutomationList automation-id="pan-lfe" id="1220" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="1235" name="Empty 1" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
-      <Processor id="1235" name="Empty 1" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="1235" name="recorder:Rob guitar 1" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="1235" name="player:Rob guitar 1" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="11002" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
       <Processor id="1225" name="Amp" active="1" user-latency="0" use-user-latency="0" type="trim">
         <Automation>
@@ -1630,7 +1693,7 @@
         <Controllable name="gaincontrol" id="1198" flags="GainLike" value="1"/>
       </Processor>
       <Processor id="1226" name="meter-Empty 1" active="1" user-latency="0" use-user-latency="0" type="meter"/>
-      <Processor id="1227" name="Empty 1" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Empty 1" type="main-outs" role="Main">
+      <Processor id="1227" name="Rob guitar 1" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Rob guitar 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
@@ -1638,26 +1701,26 @@
       <Controllable name="rec-safe" id="1232" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="1230" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="1255" name="Empty 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="19326" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
-      <PresentationInfo order="16" flags="AudioTrack,OrderSet" color="3855774463"/>
+    <Route version="6000" id="1255" name="Rob Guitar 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="19326" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+      <PresentationInfo order="15" flags="AudioTrack,OrderSet" color="3855774463"/>
       <Controllable name="solo" id="1263" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1269" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1271" flags="Toggle" value="0" solo-safe="0"/>
-      <IO name="Empty 2" id="1283" direction="Input" default-type="audio">
-        <Port type="audio" name="Empty 2/audio_in 1">
+      <IO name="Rob Guitar 2" id="1283" direction="Input" default-type="audio">
+        <Port type="audio" name="Rob Guitar 2/audio_in 1">
           <Connection other="system:capture_4"/>
         </Port>
       </IO>
-      <IO name="Empty 2" id="1284" direction="Output" default-type="audio">
-        <Port type="audio" name="Empty 2/audio_out 1">
+      <IO name="Rob Guitar 2" id="1284" direction="Output" default-type="audio">
+        <Port type="audio" name="Rob Guitar 2/audio_out 1">
           <Connection other="Master/audio_in 1"/>
         </Port>
-        <Port type="audio" name="Empty 2/audio_out 2">
+        <Port type="audio" name="Rob Guitar 2/audio_out 2">
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="1265" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="1265" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="1267" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="1262" interpolation-style="Discrete" state="Off"/>
@@ -1683,8 +1746,8 @@
           <AutomationList automation-id="pan-lfe" id="1281" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="1296" name="Empty 2" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
-      <Processor id="1296" name="Empty 2" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="1296" name="recorder:Rob Guitar 2" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="1296" name="player:Rob Guitar 2" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="11048" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
       <Processor id="1286" name="Amp" active="1" user-latency="0" use-user-latency="0" type="trim">
         <Automation>
@@ -1699,13 +1762,82 @@
         <Controllable name="gaincontrol" id="1259" flags="GainLike" value="1.0617499351501465"/>
       </Processor>
       <Processor id="1287" name="meter-Empty 2" active="1" user-latency="0" use-user-latency="0" type="meter"/>
-      <Processor id="1288" name="Empty 2" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Empty 2" type="main-outs" role="Main">
+      <Processor id="1288" name="Rob Guitar 2" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Rob Guitar 2" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
       <Controllable name="monitor" id="1295" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="1293" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="1291" flags="Toggle,RealTime" value="0"/>
+    </Route>
+    <Route version="6000" id="23672" name="Cliff Guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="23717" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+      <PresentationInfo order="14" flags="AudioTrack,OrderSet" color="3789350399"/>
+      <Controllable name="solo" id="23680" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="23686" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="23688" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Cliff Guitar" id="23700" direction="Input" default-type="audio">
+        <Port type="audio" name="Cliff Guitar/audio_in 1">
+          <Connection other="system:capture_17"/>
+        </Port>
+      </IO>
+      <IO name="Cliff Guitar" id="23701" direction="Output" default-type="audio">
+        <Port type="audio" name="Cliff Guitar/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Cliff Guitar/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="23682" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="phase" id="23684" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="23679" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="23685" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="23687" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="23681" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="23711" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="23713" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="23683" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="23715" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="23691" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="23695" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="23693" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="23697" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="23699" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="23690" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="23692" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="23694" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="23696" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="23698" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="23710" name="recorder:Cliff Guitar" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="23709" name="player:Cliff Guitar" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="23703" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
+      <Processor id="23705" name="Amp" active="1" user-latency="0" use-user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="23677" interpolation-style="Logarithmic" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="23678" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="23702" name="Amp" active="1" user-latency="0" use-user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="23675" interpolation-style="Exponential" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="23676" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="23706" name="meter-Cliff Guitar" active="1" user-latency="0" use-user-latency="0" type="meter"/>
+      <Processor id="23707" name="Cliff Guitar" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Cliff Guitar" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="23716" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="23714" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="23712" flags="Toggle,RealTime" value="0"/>
     </Route>
   </Routes>
   <Playlists>
@@ -3245,38 +3377,118 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Keys Tom-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9093376" position="10354584" beat="383.50311111111108" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2062" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1">
-        <Envelope default="yes"/>
+      <Region name="Keys Tom-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1849417" position="10354584" beat="383.50311111111108" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="25083" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="25089" interpolation-style="Exponential" state="Off">
+            <events>0 1
+1849417 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="2063" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="25084" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="2064" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="25085" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="2065" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="25086" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="2066" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="25087" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Keys Tom-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1522176" position="20846932" beat="772.10859259259257" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6724" type="audio" first-edit="nothing" source-0="5665" master-source-0="5665" channels="1">
+      <Region name="Keys Tom-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1849417" length="860714" position="12204001" beat="452" sync-position="1849417" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="25114" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="25120" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001000000001
+860714 1.0000001881181841
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="25115" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="25116" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="25117" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="25118" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Keys Tom-4.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2710131" length="6383245" position="13064715" beat="484" sync-position="2710131" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="25123" type="audio" first-edit="nothing" source-0="1779" master-source-0="1779" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="25129" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001881181841
+6383245 1
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="25124" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="25125" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="25126" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="25127" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Keys Tom-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1522176" position="20846932" beat="772.10859259259257" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6724" type="audio" first-edit="nothing" source-0="5665" master-source-0="5665" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="6725" interpolation-style="Curved" state="Off">
@@ -3307,7 +3519,7 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Keys Tom-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12081664" position="22855500" beat="846.50000000000011" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7363" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1">
+      <Region name="Keys Tom-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="12081664" position="22855500" beat="846.50000000000011" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7363" type="audio" first-edit="nothing" source-0="7059" master-source-0="7059" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="7364" interpolation-style="Curved" state="Off">
@@ -3338,7 +3550,7 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Keys Tom-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="15031040" position="35086500" beat="1299.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7686" type="audio" first-edit="nothing" source-0="7377" master-source-0="7377" channels="1">
+      <Region name="Keys Tom-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="15031040" position="35086500" beat="1299.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7686" type="audio" first-edit="nothing" source-0="7377" master-source-0="7377" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="7687" interpolation-style="Curved" state="Off">
@@ -3369,7 +3581,7 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Keys Tom-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="15460352" position="50517000" beat="1871" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8001" type="audio" first-edit="nothing" source-0="7700" master-source-0="7700" channels="1">
+      <Region name="Keys Tom-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="15460352" position="50517000" beat="1871" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8001" type="audio" first-edit="nothing" source-0="7700" master-source-0="7700" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="8002" interpolation-style="Curved" state="Off">
@@ -3402,8 +3614,1466 @@
       </Region>
     </Playlist>
     <Playlist id="768" name="Harm mic" type="audio" orig-track-id="726" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0"/>
-    <Playlist id="816" name="Reg mic" type="audio" orig-track-id="774" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0"/>
-    <Playlist id="864" name="Eric Mic" type="audio" orig-track-id="822" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0"/>
+    <Playlist id="816" name="Reg mic" type="audio" orig-track-id="774" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Eric Amp-10.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1885236" length="56912" position="12266736" beat="454.32355555555557" sync-position="1876500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27127" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="27133" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002434929169
+45264 1.0000002996335824
+56912 1.0000002996335824
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="27128" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="27129" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="27130" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="27131" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Amp-10.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1996564" length="53784" position="12378064" beat="458.44681481481479" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27176" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="27182" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000005722802852
+53784 1.0000004722802851
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="27177" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="27178" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="27179" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="27180" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Amp-10.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2105812" length="121688" position="12487312" beat="462.49303703703708" sync-position="2106124" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27259" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="27265" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000008428723766
+312 1.0000007428723765
+1248 1.0000006428723764
+121688 1.0000006406973625
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="27260" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="27261" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="27262" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="27263" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Amp-10.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2308500" length="321033" position="12690000" beat="470" sync-position="2227500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27268" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="27274" interpolation-style="Exponential" state="Off">
+            <events>0 1.000000651833588
+321033 1.0000001996335823
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="27269" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="27270" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="27271" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="27272" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Amp-10.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2308500" length="321033" position="14202000" beat="526" sync-position="2308500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27352" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="27358" interpolation-style="Exponential" state="Off">
+            <events>0 1.000000651833588
+321033 1.0000001996335823
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="27353" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="27354" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="27355" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="27356" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
+    <Playlist id="864" name="Eric Mic" type="audio" orig-track-id="822" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Eric Keys-4.6" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="219514" length="66715" position="11340000" beat="420" sync-position="219514" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="23900" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="23906" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001031777714
+66715 1.0000003000000002
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="23901" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="23902" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="23903" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="23904" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.8" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="274783" length="149285" position="11406715" beat="422.47092592592594" sync-position="274783" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="23952" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="23958" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002000000001
+39854 1.0000002000000001
+149285 1.0000002661361611
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="23953" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="23954" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="23955" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="23956" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.10" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="424068" length="102812" position="11545188" beat="427.59955555555553" sync-position="424068" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="23989" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="23995" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002661361611
+102812 1.0000002862144355
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="23990" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="23991" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="23992" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="23993" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.12" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="516710" length="97000" position="11648000" beat="431.40740740740745" sync-position="516710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24038" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24044" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002862144355
+10170 1.0000002862144355
+97000 1.0000002404256285
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24039" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24040" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24041" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24042" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.13" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="613710" length="31240" position="11740760" beat="434.84296296296304" sync-position="613710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24047" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24053" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002404256285
+24077 1.0000001000000001
+31240 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24048" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24049" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24050" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24051" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.16" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="219514" length="66715" position="11769244" beat="435.8979259259259" sync-position="219514" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24219" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24225" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001031777714
+66715 1.0000003000000002
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24220" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24221" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24222" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24223" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.15" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="274783" length="149285" position="11835959" beat="438.36885185185184" sync-position="274783" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24209" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24215" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002000000001
+39854 1.0000002000000001
+149285 1.0000002661361611
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24210" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24211" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24212" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24213" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.18" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="424068" length="102812" position="11974432" beat="443.49748148148149" sync-position="424068" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24239" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24245" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002661361611
+102812 1.0000002862144355
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24240" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24241" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24242" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24243" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.14" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="516710" length="97000" position="12077244" beat="447.30533333333329" sync-position="516710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24199" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24205" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002862144355
+10170 1.0000002862144355
+97000 1.0000002404256285
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24200" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24201" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24202" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24203" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.17" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="613710" length="31240" position="12170004" beat="450.74088888888889" sync-position="613710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24229" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24235" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002404256285
+24077 1.0000001000000001
+31240 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24230" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24231" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24232" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24233" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1822500" length="363415" position="12204001" beat="452.00003703703709" sync-position="1822500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24380" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24386" interpolation-style="Exponential" state="Off">
+            <events>0 1
+363415 1.0000001841236492
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24381" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24382" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24383" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24384" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1832670" length="13781" position="12243480" beat="453.46222222222218" sync-position="1832670" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="12" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24308" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24314" interpolation-style="Exponential" state="Off">
+            <events>0 1
+13781 1.0000001031900414
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24309" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24310" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24311" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24312" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1832670" length="13781" position="12352236" beat="457.4902222222222" sync-position="1832670" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="13" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24344" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24350" interpolation-style="Exponential" state="Off">
+            <events>0 1
+13781 1.0000001031900414
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24345" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24346" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24347" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24348" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1832670" length="13781" position="12462688" beat="461.58103703703705" sync-position="1832670" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24362" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24368" interpolation-style="Exponential" state="Off">
+            <events>0 1
+13781 1.0000001031900414
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24363" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24364" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24365" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24366" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2185915" length="68586" position="12564130" beat="465.33814814814815" sync-position="2185915" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24389" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24395" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001841236492
+68586 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24390" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24391" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24392" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24393" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1822500" length="363415" position="12636000" beat="468.00000000000006" sync-position="1822500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="15" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24679" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24685" interpolation-style="Exponential" state="Off">
+            <events>0 1
+363415 1.0000001841236492
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24680" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24681" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24682" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24683" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1832670" length="13781" position="12675479" beat="469.46218518518515" sync-position="1832670" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="19" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24719" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24725" interpolation-style="Exponential" state="Off">
+            <events>0 1
+13781 1.0000001031900414
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24720" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24721" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24722" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24723" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1832670" length="13781" position="12784235" beat="473.49018518518517" sync-position="1832670" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="18" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24709" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24715" interpolation-style="Exponential" state="Off">
+            <events>0 1
+13781 1.0000001031900414
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24710" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24711" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24712" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24713" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1832670" length="13781" position="12894687" beat="477.58099999999996" sync-position="1832670" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24699" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24705" interpolation-style="Exponential" state="Off">
+            <events>0 1
+13781 1.0000001031900414
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24700" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24701" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24702" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24703" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2185915" length="68586" position="12996129" beat="481.33811111111112" sync-position="2185915" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="16" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="24689" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24695" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001841236492
+68586 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24690" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24691" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24692" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24693" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="219514" length="66715" position="13068000" beat="484" sync-position="219514" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="22" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24828" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24834" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001031777714
+66715 1.0000003000000002
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24829" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24830" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24831" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24832" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="274783" length="149285" position="13134715" beat="486.47092592592594" sync-position="274783" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="21" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24818" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24824" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002000000001
+39854 1.0000002000000001
+149285 1.0000002661361611
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24819" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24820" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24821" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24822" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="424068" length="102812" position="13273188" beat="491.59955555555553" sync-position="424068" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="24" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24868" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24874" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002661361611
+102812 1.0000002862144355
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24869" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24870" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24871" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24872" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="516710" length="97000" position="13376000" beat="495.40740740740745" sync-position="516710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="20" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24808" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24814" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002862144355
+10170 1.0000002862144355
+97000 1.0000002404256285
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24809" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24810" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24811" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24812" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="613710" length="31240" position="13468760" beat="498.84296296296299" sync-position="613710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="23" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.7573482990264893" id="24858" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="24864" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002404256285
+24077 1.0000001000000001
+31240 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="24859" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="24860" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="24861" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="24862" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5494500" length="108000" position="14148000" beat="524" sync-position="5494500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="25489" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="25495" interpolation-style="Exponential" state="Off">
+            <events>0 1
+108000 1.0000002239935439
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="25490" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="25491" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="25492" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="25493" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5613626" length="67860" position="14269140" beat="528.48666666666668" sync-position="5613626" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="25601" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="25607" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001367671723
+67860 1.0000002000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="25602" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="25603" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="25604" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="25605" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5681486" length="137015" position="14330004" beat="530.74088888888889" sync-position="5681486" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="27" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="25610" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="25616" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002000000001
+137015 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="25611" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="25612" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="25613" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="25614" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2185915" length="95491" position="14467019" beat="535.8155185185185" sync-position="2185915" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="28" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="25425" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="25431" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001841236492
+68586 1.0000001000000001
+95491 1.0000002838188102
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="25426" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="25427" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="25428" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="25429" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.43" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5494500" length="108000" position="14580000" beat="540" sync-position="5494500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="32" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="26350" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="26356" interpolation-style="Exponential" state="Off">
+            <events>0 1
+108000 1.0000002239935439
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="26351" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="26352" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="26353" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="26354" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.42" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5613626" length="67860" position="14701140" beat="544.48666666666668" sync-position="5613626" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="31" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="26340" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="26346" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001367671723
+67860 1.0000002000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="26341" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="26342" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="26343" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="26344" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.44" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5681486" length="137015" position="14762004" beat="546.74088888888889" sync-position="5681486" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="33" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.6035408973693848" id="26360" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="26366" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002000000001
+137015 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="26361" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="26362" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="26363" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="26364" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.41" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2119500" length="66415" position="14877000" beat="551" sync-position="2119500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="29" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="26243" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="26249" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000002504745895
+66415 1.0000001841236492
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="26244" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="26245" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="26246" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="26247" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-2.39" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2185915" length="68586" position="14940129" beat="553.33811111111106" sync-position="2185915" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="30" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="3.3036949634552002" id="26178" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="26184" interpolation-style="Exponential" state="Off">
+            <events>0 1.0000001841236492
+68586 1.0000001000000001
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="26179" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="26180" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="26181" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="26182" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
     <Playlist id="11667" name="Take.1" type="audio" orig-track-id="1194" pgroup-id="2023-03-12 00.08.07" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Empty 1-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8663536" position="10381500" beat="384.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="11847" type="audio" first-edit="nothing" source-0="11821" master-source-0="11821" channels="1">
         <Envelope default="yes"/>
@@ -3532,103 +5202,9 @@
         </InverseFadeOut>
       </Region>
     </Playlist>
-    <Playlist id="19322" name="Take.4" type="audio" orig-track-id="918" pgroup-id="2023-03-15 23.33.54" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Eric Keys-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8143856" position="10381500" beat="384.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19390" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="19391" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="19392" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="19393" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="19394" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="Eric Keys-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4171248" position="66438601" beat="2460.688925925926" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19502" type="audio" first-edit="nothing" source-0="19409" master-source-0="19409" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="19503" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="19504" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="19505" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="19506" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="Eric Keys-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4177392" position="70966214" beat="2628.3782962962964" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19614" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="19615" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="19616" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="19617" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="19618" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-    </Playlist>
+    <Playlist id="19322" name="Take.4" type="audio" orig-track-id="918" pgroup-id="2023-03-15 23.33.54" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="19326" name="Take.5" type="audio" orig-track-id="1255" pgroup-id="2023-03-15 23.34.01" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Empty 2-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8143856" position="10381500" beat="384.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19419" type="audio" first-edit="nothing" source-0="19328" master-source-0="19328" channels="1">
+      <Region name="Empty 2-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8143856" position="10381500" beat="384.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="5.3465423583984375" id="19419" type="audio" first-edit="nothing" source-0="19328" master-source-0="19328" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="19420" interpolation-style="Curved" state="Off">
@@ -3659,7 +5235,7 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Empty 2-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4171248" position="66438601" beat="2460.688925925926" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="19531" type="audio" first-edit="nothing" source-0="19438" master-source-0="19438" channels="1">
+      <Region name="Empty 2-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4171248" position="66438601" beat="2460.688925925926" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="6.5310821533203125" id="19531" type="audio" first-edit="nothing" source-0="19438" master-source-0="19438" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="19532" interpolation-style="Curved" state="Off">
@@ -3715,6 +5291,101 @@
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="19647" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
+    <Playlist id="23717" name="Cliff Guitar" type="audio" orig-track-id="23672" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Eric Keys-2.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="8143856" position="10381500" beat="384.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="23759" type="audio" first-edit="nothing" source-0="19324" master-source-0="19324" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="23760" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="23761" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="23762" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="23763" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-3.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4171248" position="66438601" beat="2460.688925925926" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="23777" type="audio" first-edit="nothing" source-0="19409" master-source-0="19409" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="23778" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="23779" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="23780" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="23781" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Eric Keys-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4177392" position="70966214" beat="2628.3782962962964" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="23795" type="audio" first-edit="nothing" source-0="19521" master-source-0="19521" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="23796" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="23797" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="23798" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="23799" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -4058,7 +5729,6 @@
     <Protocol name="Wiimote" active="0" session-state="0"/>
   </ControlProtocols>
   <Extra>
-    <ExportRevision revision="1"/>
     <RangeExportProfile>
       <ExportTimespan format="Timecode">
         <Range id="2373"/>
@@ -4083,6 +5753,31 @@
         <Field name="date" enabled="0" value="D_None"/>
       </ExportFilename>
     </RangeExportProfile>
+    <ExportRevision revision="1"/>
+    <SelectionExportProfile>
+      <ExportTimespan format="Timecode">
+        <Range id="selection"/>
+      </ExportTimespan>
+      <ExportChannelConfiguration split="0" channels="2">
+        <Channel number="1">
+          <Port name="Master/audio_out 1"/>
+        </Channel>
+        <Channel number="2">
+          <Port name="Master/audio_out 2"/>
+        </Channel>
+      </ExportChannelConfiguration>
+      <ExportFormat id="e61c1d0f-95bd-48fb-b812-def99dbabe28"/>
+      <ExportFilename>
+        <Folder relative="1" path="export"/>
+        <Field name="label" enabled="1" value="guitar-sketch"/>
+        <Field name="session" enabled="1"/>
+        <Field name="snapshot" enabled="0"/>
+        <Field name="timespan" enabled="1"/>
+        <Field name="revision" enabled="0"/>
+        <Field name="time" enabled="0" value="T_None"/>
+        <Field name="date" enabled="1" value="D_BEShortY"/>
+      </ExportFilename>
+    </SelectionExportProfile>
     <UI>
       <Window name="key-editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="750" y-size="368"/>
@@ -4127,6 +5822,7 @@
       <Window name="PM-54-1321" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-494-2280" visible="0" x-off="994" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
       <Window name="PM-494-2280" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-23672" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
@@ -4350,6 +6046,16 @@
         <Object id="strip 1255" strip-width="Wide" visible="1">
           <Object id="processor 1285">
             <Object id="control 1259" visible="0"/>
+          </Object>
+        </Object>
+        <Object id="rtav 23672" height="66" visible="1"/>
+        <Object id="automation 23676" height="66" visible="0"/>
+        <Object id="automation 23678" height="66" visible="0"/>
+        <Object id="automation 23672 12/0/0" height="66" visible="0"/>
+        <Object id="automation 23691" height="66" visible="0"/>
+        <Object id="strip 23672" strip-width="Wide" visible="1">
+          <Object id="processor 23702">
+            <Object id="control 23676" visible="0"/>
           </Object>
         </Object>
       </GUIObjectState>
