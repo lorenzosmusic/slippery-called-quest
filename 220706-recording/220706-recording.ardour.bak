@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="220706-recording" sample-rate="44100" end-is-free="1" session-range-is-free="1" id-counter="27605" name-counter="1" event-counter="1097" vca-counter="1">
+<Session version="6000" name="220706-recording" sample-rate="44100" end-is-free="1" session-range-is-free="1" id-counter="27667" name-counter="1" event-counter="1136" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4.1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -3615,12 +3615,12 @@
     </Playlist>
     <Playlist id="768" name="Harm mic" type="audio" orig-track-id="726" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="816" name="Reg mic" type="audio" orig-track-id="774" pgroup-id="" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Eric Amp-10.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1876500" length="65648" position="12258000" beat="454" sync-position="1876500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27127" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
+      <Region name="Eric Amp-10.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1885236" length="56912" position="12266736" beat="454.32355555555557" sync-position="1876500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27127" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="27133" interpolation-style="Exponential" state="Off">
-            <events>0 1.0000001133576073
-54000 1.0000002996335824
-65648 1.0000002996335824
+            <events>0 1.0000002434929169
+45264 1.0000002996335824
+56912 1.0000002996335824
 </events>
           </AutomationList>
         </Envelope>
@@ -3653,11 +3653,11 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Eric Amp-10.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1984500" length="65848" position="12366000" beat="457.99999999999994" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27176" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
+      <Region name="Eric Amp-10.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1996564" length="53784" position="12378064" beat="458.44681481481479" sync-position="1984500" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27176" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="27182" interpolation-style="Exponential" state="Off">
-            <events>0 1.0000003919086256
-65848 1.0000004722802851
+            <events>0 1.0000005722802852
+53784 1.0000004722802851
 </events>
           </AutomationList>
         </Envelope>
@@ -3690,13 +3690,13 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Eric Amp-10.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2092500" length="135000" position="12474000" beat="462" sync-position="2106124" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27259" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
+      <Region name="Eric Amp-10.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2105812" length="121688" position="12487312" beat="462.49303703703708" sync-position="2106124" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="27259" type="audio" first-edit="nothing" source-0="19320" master-source-0="19320" channels="1">
         <Envelope>
           <AutomationList automation-id="envelope" id="27265" interpolation-style="Exponential" state="Off">
-            <events>0 1.0000007428723765
-13624 1.0000007428723765
-14560 1.0000006428723764
-135000 1.0000006406973625
+            <events>0 1.0000008428723766
+312 1.0000007428723765
+1248 1.0000006428723764
+121688 1.0000006406973625
 </events>
           </AutomationList>
         </Envelope>
@@ -5729,7 +5729,6 @@
     <Protocol name="Wiimote" active="0" session-state="0"/>
   </ControlProtocols>
   <Extra>
-    <ExportRevision revision="1"/>
     <RangeExportProfile>
       <ExportTimespan format="Timecode">
         <Range id="2373"/>
@@ -5754,6 +5753,31 @@
         <Field name="date" enabled="0" value="D_None"/>
       </ExportFilename>
     </RangeExportProfile>
+    <ExportRevision revision="1"/>
+    <SelectionExportProfile>
+      <ExportTimespan format="Timecode">
+        <Range id="selection"/>
+      </ExportTimespan>
+      <ExportChannelConfiguration split="0" channels="2">
+        <Channel number="1">
+          <Port name="Master/audio_out 1"/>
+        </Channel>
+        <Channel number="2">
+          <Port name="Master/audio_out 2"/>
+        </Channel>
+      </ExportChannelConfiguration>
+      <ExportFormat id="e61c1d0f-95bd-48fb-b812-def99dbabe28"/>
+      <ExportFilename>
+        <Folder relative="1" path="export"/>
+        <Field name="label" enabled="1" value="guitar-sketch"/>
+        <Field name="session" enabled="1"/>
+        <Field name="snapshot" enabled="0"/>
+        <Field name="timespan" enabled="1"/>
+        <Field name="revision" enabled="0"/>
+        <Field name="time" enabled="0" value="T_None"/>
+        <Field name="date" enabled="1" value="D_BEShortY"/>
+      </ExportFilename>
+    </SelectionExportProfile>
     <UI>
       <Window name="key-editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="750" y-size="368"/>
