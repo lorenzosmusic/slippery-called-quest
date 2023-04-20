@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="220706-recording" sample-rate="44100" end-is-free="1" session-range-is-free="1" id-counter="44646" name-counter="1" event-counter="1362" vca-counter="1">
+<Session version="6000" name="220706-recording" sample-rate="44100" end-is-free="1" session-range-is-free="1" id-counter="50664" name-counter="1" event-counter="1369" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4.1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -403,7 +403,14 @@
     <Region name="Bass-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9538032" position="10354584" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" tags="" contents="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="44612" type="audio" first-edit="nothing" source-0="44310" master-source-0="44310" channels="1"/>
   </Regions>
   <Selection>
-    <StripableAutomationControl stripable="494" control="0" order="44"/>
+    <StripableAutomationControl stripable="158" control="0" order="1"/>
+    <StripableAutomationControl stripable="206" control="0" order="8"/>
+    <StripableAutomationControl stripable="254" control="0" order="2"/>
+    <StripableAutomationControl stripable="302" control="0" order="3"/>
+    <StripableAutomationControl stripable="350" control="0" order="4"/>
+    <StripableAutomationControl stripable="398" control="0" order="5"/>
+    <StripableAutomationControl stripable="446" control="0" order="6"/>
+    <StripableAutomationControl stripable="43885" control="0" order="7"/>
   </Selection>
   <Locations>
     <Location id="1432" name="session" start="0" end="75143605" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
@@ -577,7 +584,7 @@
       </Processor>
       <Slavable/>
     </Route>
-    <Route version="6000" id="158" name="Bass Drum" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44282" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="158" name="Bass Drum" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44282" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="2" flags="AudioTrack,OrderSet" color="2659575295"/>
       <Controllable name="solo" id="166" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="172" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -622,7 +629,6 @@
           <AutomationList automation-id="pan-lfe" id="184" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="190" name="meter-drums 1" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="199" name="Bass Drum" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="199" name="Bass Drum" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="10278" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -638,15 +644,16 @@
         </Automation>
         <Controllable name="gaincontrol" id="162" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="190" name="meter-drums 1" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="191" name="Bass Drum" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Bass Drum" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="198" flags="RealTime" value="2" monitoring="MonitorDisk,MonitorCue"/>
+      <Controllable name="monitor" id="198" flags="RealTime" value="2" monitoring="MonitorInput,MonitorDisk,MonitorCue"/>
       <Controllable name="rec-safe" id="196" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="194" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="194" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="206" name="Snare" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44286" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="206" name="Snare" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44286" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="3" flags="AudioTrack,OrderSet" color="3437593087"/>
       <Controllable name="solo" id="214" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="220" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -691,7 +698,6 @@
           <AutomationList automation-id="pan-lfe" id="232" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="238" name="meter-drums 2" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="247" name="Snare" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="247" name="Snare" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="10324" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -707,15 +713,16 @@
         </Automation>
         <Controllable name="gaincontrol" id="210" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="238" name="meter-drums 2" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="239" name="Snare" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Snare" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="246" flags="RealTime" value="2" monitoring="MonitorDisk,MonitorCue"/>
+      <Controllable name="monitor" id="246" flags="RealTime" value="2" monitoring="MonitorInput,MonitorDisk,MonitorCue"/>
       <Controllable name="rec-safe" id="244" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="242" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="242" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="254" name="Hi Hat" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44290" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="254" name="Hi Hat" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44290" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="4" flags="AudioTrack,OrderSet" color="3855657215"/>
       <Controllable name="solo" id="262" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="268" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -760,7 +767,6 @@
           <AutomationList automation-id="pan-lfe" id="280" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="286" name="meter-drums 3" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="295" name="Hi Hat" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="295" name="Hi Hat" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="10370" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -776,15 +782,16 @@
         </Automation>
         <Controllable name="gaincontrol" id="258" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="286" name="meter-drums 3" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="287" name="Hi Hat" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Hi Hat" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="294" flags="RealTime" value="2" monitoring="MonitorDisk,MonitorCue"/>
+      <Controllable name="monitor" id="294" flags="RealTime" value="2" monitoring="MonitorInput,MonitorDisk,MonitorCue"/>
       <Controllable name="rec-safe" id="292" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="290" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="290" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="302" name="Rack 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44294" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="302" name="Rack 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44294" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="5" flags="AudioTrack,OrderSet" color="3470976511"/>
       <Controllable name="solo" id="310" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="316" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -829,7 +836,6 @@
           <AutomationList automation-id="pan-lfe" id="328" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="334" name="meter-drums 4" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="343" name="Rack 1" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="343" name="Rack 1" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="10416" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -845,15 +851,16 @@
         </Automation>
         <Controllable name="gaincontrol" id="306" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="334" name="meter-drums 4" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="335" name="Rack 1" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Rack 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="342" flags="RealTime" value="2" monitoring="MonitorDisk,MonitorCue"/>
+      <Controllable name="monitor" id="342" flags="RealTime" value="2" monitoring="MonitorInput,MonitorDisk,MonitorCue"/>
       <Controllable name="rec-safe" id="340" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="338" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="338" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="350" name="Floor tom" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44298" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="350" name="Floor tom" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44298" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="6" flags="AudioTrack,OrderSet" color="3789939711"/>
       <Controllable name="solo" id="358" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="364" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -898,7 +905,6 @@
           <AutomationList automation-id="pan-lfe" id="376" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="382" name="meter-drums 5" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="391" name="Floor tom" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="391" name="Floor tom" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="10462" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -914,15 +920,16 @@
         </Automation>
         <Controllable name="gaincontrol" id="354" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="382" name="meter-drums 5" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="383" name="Floor tom" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Floor tom" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="390" flags="RealTime" value="2" monitoring="MonitorDisk,MonitorCue"/>
+      <Controllable name="monitor" id="390" flags="RealTime" value="2" monitoring="MonitorInput,MonitorDisk,MonitorCue"/>
       <Controllable name="rec-safe" id="388" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="386" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="386" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="398" name="OH 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44274" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="398" name="OH 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44274" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="7" flags="AudioTrack,OrderSet" color="3916742399"/>
       <Controllable name="solo" id="406" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="412" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -967,7 +974,6 @@
           <AutomationList automation-id="pan-lfe" id="424" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="430" name="meter-drums 6" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="439" name="OH 1" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="439" name="OH 1" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="10508" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -983,15 +989,16 @@
         </Automation>
         <Controllable name="gaincontrol" id="402" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="430" name="meter-drums 6" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="431" name="OH 1" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="OH 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="438" flags="RealTime" value="2" monitoring="MonitorDisk,MonitorCue"/>
+      <Controllable name="monitor" id="438" flags="RealTime" value="2" monitoring="MonitorInput,MonitorDisk,MonitorCue"/>
       <Controllable name="rec-safe" id="436" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="434" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="434" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="446" name="OH 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44278" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="446" name="OH 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44278" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="8" flags="AudioTrack,OrderSet" color="3352290815"/>
       <Controllable name="solo" id="454" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="460" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -1036,7 +1043,6 @@
           <AutomationList automation-id="pan-lfe" id="472" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="478" name="meter-drums 7" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="487" name="OH 2" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="487" name="OH 2" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="10554" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -1052,15 +1058,16 @@
         </Automation>
         <Controllable name="gaincontrol" id="450" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="478" name="meter-drums 7" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="479" name="OH 2" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="OH 2" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="486" flags="RealTime" value="2" monitoring="MonitorDisk,MonitorCue"/>
+      <Controllable name="monitor" id="486" flags="RealTime" value="2" monitoring="MonitorInput,MonitorDisk,MonitorCue"/>
       <Controllable name="rec-safe" id="484" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="482" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="482" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="494" name="Bass" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="43859" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="494" name="Bass" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="43859" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="9" flags="AudioTrack,OrderSet" color="1924261375"/>
       <Controllable name="solo" id="502" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="508" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -1105,7 +1112,6 @@
           <AutomationList automation-id="pan-lfe" id="520" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="526" name="meter-drums 8" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="535" name="Bass" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="535" name="Bass" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="10600" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -1262,13 +1268,14 @@
         <Controllable name="Analyzer Active" id="2356" flags="Toggle" value="1" parameter="49" symbol="analyzer"/>
         <Controllable name="Analyzer Mode" id="2358" flags="" value="1" parameter="50" symbol="analyzer_mode"/>
       </Processor>
+      <Processor id="526" name="meter-drums 8" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="527" name="Bass" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="Bass" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="534" flags="RealTime" value="1" monitoring="MonitorInput,MonitorCue"/>
+      <Controllable name="monitor" id="534" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="532" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="530" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="530" flags="Toggle,RealTime" value="0"/>
     </Route>
     <Route version="6000" id="678" name="Keys Tom" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="720" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="10" flags="AudioTrack,OrderSet" color="3236286719"/>
@@ -1891,7 +1898,7 @@
       <Controllable name="rec-safe" id="23714" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="23712" flags="Toggle,RealTime" value="0"/>
     </Route>
-    <Route version="6000" id="43885" name="sub bd" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44302" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+    <Route version="6000" id="43885" name="sub bd" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" route-group="Drums" audio-playlist="44302" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
       <PresentationInfo order="1" flags="AudioTrack,OrderSet" color="2527915263"/>
       <Controllable name="solo" id="43893" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="43899" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -1936,7 +1943,6 @@
           <AutomationList automation-id="pan-lfe" id="43911" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="43919" name="meter-sub bd" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="43923" name="recorder:sub bd" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
       <Processor id="43922" name="player:sub bd" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
       <Processor id="43916" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
@@ -1952,13 +1958,14 @@
         </Automation>
         <Controllable name="gaincontrol" id="43889" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="43919" name="meter-sub bd" active="1" user-latency="0" use-user-latency="0" type="meter"/>
       <Processor id="43920" name="sub bd" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="sub bd" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
       <Controllable name="monitor" id="43929" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="43927" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="43925" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="43925" flags="Toggle,RealTime" value="0"/>
     </Route>
   </Routes>
   <Playlists>
@@ -6524,7 +6531,7 @@
     </Playlist>
   </UnusedPlaylists>
   <RouteGroups>
-    <RouteGroup id="1318" rgba="3832650751" used-to-share-gain="0" name="Drums" hidden="0" active="1" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="158 206 254 302 350 398 446 43885 "/>
+    <RouteGroup id="1318" rgba="3832650751" used-to-share-gain="0" name="Drums" hidden="0" active="0" relative="1" gain="1" mute="1" solo="1" recenable="1" select="1" route-active="1" color="1" monitoring="1" group-master-number="-1" routes="158 206 254 302 350 398 446 43885 "/>
   </RouteGroups>
   <Click>
     <IO name="Click" id="51" direction="Output" default-type="audio">
@@ -6621,10 +6628,10 @@
       <Window name="session-options-editor" visible="0" x-off="0" y-off="335" x-size="750" y-size="368"/>
       <Window name="speaker-config" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="about" visible="0" x-off="0" y-off="0" x-size="424" y-size="611"/>
-      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="662" y-size="499"/>
+      <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="643" y-size="499"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="57" y-off="57" x-size="620" y-size="370"/>
-      <Window name="audio-midi-setup" visible="0" x-off="657" y-off="325" x-size="606" y-size="430"/>
+      <Window name="audio-midi-setup" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="839" y-off="381" x-size="341" y-size="372"/>
       <Window name="bundle-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -6640,6 +6647,7 @@
       <Window name="dsp-statistics" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="transport-masters" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-54" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-43885" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-158" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-206" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-254" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -6661,7 +6669,6 @@
       <Window name="PM-54-1321" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-494-2280" visible="0" x-off="994" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
       <Window name="PM-494-2280" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-43885" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
