@@ -1,147 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1691298432" tv-usec="252706" name="region drag">
-    <StatefulDiffCommand obj-id="337295" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="78637500" to="78637135"/>
-        <beat from="2912.5" to="2912.4864814814819"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="45" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="158" left-frame="78533523" y-origin="660">
-        <Selection>
-          <Regions>
-            <Region id="337295"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="158" left-frame="78533523" y-origin="660">
-        <Selection>
-          <Regions>
-            <Region id="337295"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1691298437" tv-usec="117978" name="region drag">
-    <StatefulDiffCommand obj-id="337295" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="78637135" to="78633975"/>
-        <beat from="2912.4864814814819" to="2912.3694444444445"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="45" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="79" left-frame="78588191" y-origin="660">
-        <Selection>
-          <Regions>
-            <Region id="337295"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="79" left-frame="78588191" y-origin="660">
-        <Selection>
-          <Regions>
-            <Region id="337295"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1691298466" tv-usec="332325" name="split">
-    <StatefulDiffCommand obj-id="336261" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="337329"/>
-          <Add id="337338"/>
-          <Remove id="336941"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="45" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="316" left-frame="78783146" y-origin="660">
-        <Selection>
-          <Regions>
-            <Region id="336941"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="316" left-frame="78783146" y-origin="660">
-        <Selection/>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1691298473" tv-usec="715256" name="region drag">
-    <StatefulDiffCommand obj-id="337338" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="79069500" to="79066029"/>
-        <beat from="2928.5" to="2928.3714444444445"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="45" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="39" left-frame="79034385" y-origin="660">
-        <Selection>
-          <Regions>
-            <Region id="337338"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="39" left-frame="79034385" y-origin="660">
-        <Selection>
-          <Regions>
-            <Region id="337338"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1691298549" tv-usec="256169" name="split">
-    <StatefulDiffCommand obj-id="336261" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="337366"/>
-          <Add id="337375"/>
-          <Remove id="337101"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="45" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="156" left-frame="81344268" y-origin="660">
-        <Selection>
-          <Regions>
-            <Region id="337101"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="156" left-frame="81344268" y-origin="660">
-        <Selection/>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1691298556" tv-usec="73886" name="region drag">
-    <StatefulDiffCommand obj-id="337375" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <position from="81445128" to="81441618"/>
-        <beat from="3016.5" to="3016.3562222222222"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="45" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="39" left-frame="81427455" y-origin="660">
-        <Selection>
-          <Regions>
-            <Region id="337375"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="39" left-frame="81427455" y-origin="660">
-        <Selection>
-          <Regions>
-            <Region id="337375"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1691298560" tv-usec="857116" name="region drag">
     <StatefulDiffCommand obj-id="337375" type-name="ARDOUR::AudioRegion">
       <Changes/>
@@ -505,5 +363,365 @@
         </Regions>
       </Changes>
     </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1694668907" tv-usec="51641" name="remove marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363720" name="xrun" start="76096888" end="76096888" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660836"/>
+        <Location id="363721" name="xrun" start="76129656" end="76129656" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660837"/>
+        <Location id="363722" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363723" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363725" name="xrun" start="76195192" end="76195192" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363721" name="xrun" start="76129656" end="76129656" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660837"/>
+        <Location id="363722" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363723" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363725" name="xrun" start="76195192" end="76195192" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="45" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="75501910" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="75501910" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1694668911" tv-usec="119272" name="remove marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363721" name="xrun" start="76129656" end="76129656" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660837"/>
+        <Location id="363722" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363723" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363725" name="xrun" start="76195192" end="76195192" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363722" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363723" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363725" name="xrun" start="76195192" end="76195192" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="45" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="75501910" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="75501910" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1694668914" tv-usec="548815" name="remove marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363722" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363723" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363725" name="xrun" start="76195192" end="76195192" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363722" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363725" name="xrun" start="76195192" end="76195192" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="45" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="75501910" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="75501910" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1694668918" tv-usec="422045" name="remove marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363722" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363725" name="xrun" start="76195192" end="76195192" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363725" name="xrun" start="76195192" end="76195192" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="45" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="75501910" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="75501910" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1694668923" tv-usec="249461" name="remove marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363725" name="xrun" start="76195192" end="76195192" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="45" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="75501910" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="75501910" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1694668926" tv-usec="306541" name="remove marker">
+    <MementoCommand obj-id="52" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+      <Locations>
+        <Location id="1432" name="session" start="76059000" end="82863000" flags="IsSessionRange" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2362" name="click trackversion" start="10260000" end="10260000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="2373" name="click trackversion-range" start="10381500" end="19102500" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="8050" name="variation take" start="50652000" end="50652000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1678599262"/>
+        <Location id="32938" name="Loop" start="76140000" end="76571999" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime" timestamp="1679205547"/>
+        <Location id="56747" name="bomp" start="13500000" end="13500000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400200"/>
+        <Location id="56754" name="end bomp" start="14148000" end="14148000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400242"/>
+        <Location id="56761" name="back 2 org" start="18360000" end="18360000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1682400367"/>
+        <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
+        <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
+        <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
+        <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
+        <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
+        <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
+        <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+        <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="45" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="77294063" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1269" left-frame="77294063" y-origin="858">
+        <Selection>
+          <StripableView id="363659"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
   </UndoTransaction>
 </UndoHistory>

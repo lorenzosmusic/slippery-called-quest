@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="6000" name="220706-recording" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="363885" name-counter="1" event-counter="6332" vca-counter="1">
+<Session version="6000" name="220706-recording" sample-rate="44100" end-is-free="0" session-range-is-free="0" id-counter="389863" name-counter="1" event-counter="6344" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4.1" modified-with="Ardour 6.9.0~ds0-1build1"/>
   <MIDIPorts>
     <Port name="MIDI Clock out" direction="output"/>
@@ -1167,18 +1167,6 @@
     <Location id="173095" name="new arrangement 230717" start="75843000" end="75843000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689656187"/>
     <Location id="185881" name="end new arrangement" start="83106000" end="83106000" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1689659520"/>
     <Location id="185892" name="new arrangement 230717-range" start="76032000" end="83052000" flags="IsRangeMarker" locked="0" position-lock-style="AudioTime" timestamp="1689659548"/>
-    <Location id="363720" name="xrun" start="76096888" end="76096888" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660836"/>
-    <Location id="363721" name="xrun" start="76129656" end="76129656" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660837"/>
-    <Location id="363722" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
-    <Location id="363723" name="xrun" start="76162424" end="76162424" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
-    <Location id="363725" name="xrun" start="76195192" end="76195192" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660838"/>
-    <Location id="363726" name="xrun" start="76227960" end="76227960" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660839"/>
-    <Location id="363727" name="xrun" start="76260728" end="76260728" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660840"/>
-    <Location id="363728" name="xrun" start="76293496" end="76293496" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
-    <Location id="363729" name="xrun" start="76326264" end="76326264" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660841"/>
-    <Location id="363730" name="xrun" start="76359032" end="76359032" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660842"/>
-    <Location id="363731" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
-    <Location id="363732" name="xrun" start="76391800" end="76391800" flags="IsMark" locked="0" position-lock-style="AudioTime" timestamp="1694660843"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -34046,6 +34034,7 @@ Several playlist takes to choose from
       <Window name="RPM-110719" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-310045" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-308463" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-363659" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-726" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-870" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-494" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -34077,7 +34066,6 @@ Several playlist takes to choose from
       <Window name="PM-310045-310796" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-494-2280" visible="0" x-off="994" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
       <Window name="PM-494-2280" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-363659" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="66" visible="1"/>
         <Object id="automation 58" height="66" visible="0"/>
